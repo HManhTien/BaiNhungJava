@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesst", "Tesst\Tesst.csproj", "{9F829AFC-D9E7-447F-9EEE-DA834DA15762}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhTong2so", "Tesst\TinhTong2so.csproj", "{9F829AFC-D9E7-447F-9EEE-DA834DA15762}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# and Java", "C# and Java", "{08F615AC-39CF-4198-B79D-49FF539D6693}"
 EndProject
