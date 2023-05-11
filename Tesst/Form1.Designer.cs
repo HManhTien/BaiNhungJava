@@ -73,7 +73,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button1.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.button1.Location = new System.Drawing.Point(238, 209);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(129, 55);
@@ -103,6 +103,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox3);
