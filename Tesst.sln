@@ -5,6 +5,12 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesst", "Tesst\Tesst.csproj", "{9F829AFC-D9E7-447F-9EEE-DA834DA15762}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# and Java", "C# and Java", "{08F615AC-39CF-4198-B79D-49FF539D6693}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# GPTB2", "C# GPTB2", "{7C154F4A-6B49-4FCE-87F9-2CFDFCCCA8C8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GiaiPTB2", "GiaiPTB2\GiaiPTB2.vbproj", "{81E7BACD-CB6C-4605-A05D-0B4FC98E1C38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +21,17 @@ Global
 		{9F829AFC-D9E7-447F-9EEE-DA834DA15762}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F829AFC-D9E7-447F-9EEE-DA834DA15762}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F829AFC-D9E7-447F-9EEE-DA834DA15762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E7BACD-CB6C-4605-A05D-0B4FC98E1C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E7BACD-CB6C-4605-A05D-0B4FC98E1C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E7BACD-CB6C-4605-A05D-0B4FC98E1C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E7BACD-CB6C-4605-A05D-0B4FC98E1C38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9F829AFC-D9E7-447F-9EEE-DA834DA15762} = {08F615AC-39CF-4198-B79D-49FF539D6693}
+		{81E7BACD-CB6C-4605-A05D-0B4FC98E1C38} = {7C154F4A-6B49-4FCE-87F9-2CFDFCCCA8C8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88A73D72-CBF9-4A22-B5EC-CE5E0699FC82}
